@@ -1,0 +1,448 @@
+body{
+
+margin:0;
+
+font-family:'Poppins', sans-serif;
+
+background:#0a1124;
+
+color:white;
+
+}
+
+/* NAVBAR */
+
+nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+  padding:15px 7%;
+background:#070d1f;
+}
+
+nav h3{
+font-size:22px;
+font-weight:700;
+}
+.nav-links{
+
+display:flex;
+
+nav-links{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+gap:15px;
+margin-top:10px;
+}
+}
+gap:25px;
+
+flex-wrap:wrap;
+
+justify-content:center;
+
+}
+
+.
+
+}
+nav-links{
+display:flex;
+gap:30px;
+}
+
+.nav-links a{
+color:white;
+text-decoration:none;
+font-size:16px;
+font-weight:500;
+transition:0.3s;
+}
+
+.nav-links a:hover{
+color:#4ea1ff;
+}
+
+/* HERO */
+
+.problem{
+padding:120px 10%;
+text-align:center;
+background:#0d1a3a;
+}
+
+.problem h2{
+font-size:48px;
+max-width:700px;
+margin:auto;
+margin-bottom:30px;
+}
+
+.problem p{
+font-size:20px;
+max-width:600px;
+margin:auto;
+color:#cfd6ff;
+}
+
+/* SEZIONI */
+
+section{
+padding:100px 10%;
+}
+
+h2{
+font-size:36px;
+margin-bottom:20px;
+}
+
+/* SERVIZI */
+
+.services{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:30px;
+margin-top:40px;
+}
+
+.service-box{
+background:#101c3d;
+padding:30px;
+border-radius:12px;
+transition:0.3s;
+}
+
+.service-box:hover{
+transform:translateY(-5px);
+}
+
+/* PROGETTI */
+
+.projects{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:30px;
+margin-top:40px;
+}
+
+.project-box{
+background:#101c3d;
+padding:30px;
+border-radius:12px;
+text-align:center;
+}
+
+/* CONTATTI */
+
+.contact{
+text-align:center;
+}
+
+.contact a{
+display:inline-block;
+margin-top:20px;
+padding:15px 35px;
+background:#4ea1ff;
+color:white;
+text-decoration:none;
+border-radius:8px;
+font-weight:600;
+}nav{
+
+flex-wrap:wrap;
+
+}
+
+.nav-links{
+
+width:100%;
+
+justify-content:center;
+
+margin-top:10px;
+
+flex-wrap:wrap;
+
+}.cta-button{
+
+display:inline-block;
+
+margin-top:30px;
+
+padding:15px 30px;
+
+background:#3b82f6;
+
+color:white;
+
+text-decoration:none;
+
+font-weight:600;
+
+border-radius:8px;
+
+transition:0.3s;
+
+}
+
+.cta-button:hover{
+
+background:#2563eb;
+
+transform:scale(1.05);
+
+}nav ul{
+
+display:flex;
+
+gap:20px;
+
+list-style:none;
+
+padding:0;
+
+}#home{
+
+padding:120px 20px;
+
+text-align:center;
+
+}
+
+#home h2{
+
+font-size:36px;
+
+margin-bottom:20px;
+
+}
+
+#home p{
+
+font-size:18px;
+
+line-height:1.6;
+
+}.cta-button{
+
+display:inline-block;
+
+margin-top:25px;
+
+padding:14px 28px;
+
+background:#2563eb;
+
+color:white;
+
+text-decoration:none;
+
+font-weight:600;
+
+border-radius:8px;
+
+transition:0.3s;
+
+}
+
+.cta-button:hover{
+
+background:#1e40af;
+
+}.nav-links{
+
+display:flex;
+
+gap:20px;
+
+}.cta-button:hover{
+
+background:#4a7df0;
+
+transform:scale(1.05);
+
+transition:0.3s;
+
+}.service-box{
+
+background:#0f1a3a;
+
+padding:25px;
+
+border-radius:12px;
+
+margin-top:20px;
+
+box-shadow:0 5px 15px rgba(0,0,0,0.3);
+
+}.service-box:hover{
+
+transform:translateY(-5px);
+
+transition:0.3s;
+
+}section{
+
+  padding:40px;
+
+}
+
+h1, h2{
+
+  text-align:center;
+
+}
+
+p{
+
+  text-align:center;
+
+  font-size:18px;
+
+}.services{
+
+display:flex;
+
+flex-direction:column;
+
+gap:20px;
+
+}.service-box:hover{
+
+transform:translateY(-5px);
+
+transition:0.3s;
+
+}section{
+
+text-align:center;
+
+padding:60px 20px;
+
+}nav{
+
+padding:20px;
+
+}.service-box{
+
+background:#0f1b3d;
+
+padding:20px;
+
+border-radius:10px;
+
+transition:0.3s;
+
+}
+
+.service-box:hover{
+
+transform:translateY(-5px);
+
+}.services{
+
+text-align:center;
+
+}.btn{
+
+display:inline-block;
+
+margin-top:20px;
+
+padding:12px 25px;
+
+background:#000;
+
+color:#fff;
+
+text-decoration:none;
+
+border-radius:8px;
+
+font-weight:bold;
+
+}#servizi{
+
+padding:60px 20px;
+
+text-align:center;
+
+}
+
+.servizi-container{
+
+display:flex;
+
+gap:20px;
+
+justify-content:center;
+
+flex-wrap:wrap;
+
+}
+
+.
+
+padding:20px;
+
+border-radius:10px;
+
+width:250px;
+.servizio:hover{
+
+transform:scale(1.05);
+
+transition:0.3s;
+
+}
+
+}#contatti{
+
+padding:60px 20px;
+
+text-align:center;
+
+}
+
+.btn{
+
+display:inline-block;
+
+margin-top:20px;
+
+padding:12px 25px;
+
+background:#000;
+
+color:white;
+
+text-decoration:none;
+
+border-radius:8px;
+
+}.btn {
+
+display: inline-block;
+
+background: #25D366;
+
+color: white;
+
+padding: 12px 20px;
+
+text-decoration: none;
+
+border-radius: 8px;
+
+font-weight: bold;
+
+margin-top: 10px;
+
+}
+
+.btn:hover {
+
+background: #1ebe5d;
+
+}
